@@ -8,13 +8,13 @@ scissors cuts paper, and paper covers rock.
 
 # How it works
 
-Step 1: Show options to the player
-Step 2: Computer makes a random choice
-Step 3: Compare the choices
-Step 4: Show the result
+1. Show options to the player
+2. Computer makes a random choice
+3. Compare the choices
+4.  Show the result
     Print what player chose
     Print what computer chose
-Step 5 (Optional): Repeat
+5. (Optional): Repeat
 
 
 # Open in google colab
