@@ -18,8 +18,8 @@ scissors cuts paper, and paper covers rock.
 
 # Features
 
-1. **Basic CLI / Python Version
-   i) Player vs Computer gameplay
+1. **Basic CLI / Python Version                                                                                                                                                 
+   i) Player vs Computer gameplay                                                                                                                                             
    ii) Random computer choice
    iii) Winner detection based on rules (Rock beats Scissors, etc.)**
 
