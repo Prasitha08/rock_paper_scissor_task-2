@@ -12,8 +12,8 @@ scissors cuts paper, and paper covers rock.
 2. Computer makes a random choice
 3. Compare the choices
 4.  Show the result
-    Print what player chose
-    Print what computer chose
+    (Print what player chose,
+    Print what computer chose)
 5. (Optional): Repeat
 
 
