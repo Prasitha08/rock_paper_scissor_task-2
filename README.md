@@ -12,8 +12,8 @@ Step 1: Show options to the player
 Step 2: Computer makes a random choice
 Step 3: Compare the choices
 Step 4: Show the result
-   * Print what player chose
-   * Print what computer chose
+    Print what player chose
+    Print what computer chose
 Step 5 (Optional): Repeat
 
 
