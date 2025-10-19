@@ -18,18 +18,19 @@ scissors cuts paper, and paper covers rock.
 
 # Features
 
-1. **Basic CLI / Python Version                                                                                                                                                 
-   i) Player vs Computer gameplay                                                                                                                                             
-   ii) Random computer choice
-   iii) Winner detection based on rules (Rock beats Scissors, etc.)**
+1. **Basic CLI / Python Version**                                                                                                                                                
+   i) Player vs Computer gameplay                                                                                                                                                                                                                                                                                         
+   ii) Random computer choice                                                                                                                                                  
+   iii) Winner detection based on rules (Rock beats Scissors, etc.)
 
 
 # Technologies Used
-1. For CLI / Python Version
-~ Python (any version 3.x)
-~ random module for computer choice
-~ input() function to get user choice
-~ Conditional statements (if, elif, else) for game logic
+1. **For CLI / Python Version**
+   
+  ~ Python (any version 3.x)                                                                                                                                                     
+  ~ random module for computer choice                                                                                                                                            
+  ~ input() function to get user choice                                                                                                                                          
+  ~ Conditional statements (if, elif, else) for game logic
 
 
 # Open in google colab
