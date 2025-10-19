@@ -16,6 +16,21 @@ scissors cuts paper, and paper covers rock.
     Print what computer chose)
 5. (Optional): Repeat
 
+# Features
+
+1. Basic CLI / Python Version
+
+✅ Player vs Computer gameplay
+✅ Random computer choice
+✅ Winner detection based on rules (Rock beats Scissors, etc.)
+
+# Technologies Used
+1. For CLI / Python Version
+~ Python (any version 3.x)
+~ random module for computer choice
+~ input() function to get user choice
+~ Conditional statements (if, elif, else) for game logic
+
 
 # Open in google colab
 
