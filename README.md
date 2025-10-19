@@ -7,6 +7,7 @@ scissors cuts paper, and paper covers rock.
 
 
 # How it works
+
 Step 1: Show options to the player
 Step 2: Computer makes a random choice
 Step 3: Compare the choices
